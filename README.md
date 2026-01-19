@@ -4,9 +4,13 @@ Using Python (Pandas, NumPy, Matplotlib/Seaborn), the dataset was cleaned, proce
 
 # Key highlights:
 Data cleaning and preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Customer segmentation based on demographics
+
 Sales and revenue trend analysis
+
 Actionable business insights
 
 # Tools & Technologies:
